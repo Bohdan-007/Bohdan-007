@@ -26,7 +26,7 @@ I am a beginner front-end developer<img src="https://media.giphy.com/media/WUlpl
   <img src="./assets/icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="./assets/icons/sass-original.svg" title="SASS/SCSS" alt="SASS/SCSS" width="40" height="40"/>&nbsp;
   <img src="./assets/icons/bootstrap-original.svg " title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="./assets/icons/materialize.svg" title="Materialize" alt="Materialize" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/materialize-original.svg" title="Materialize" alt="Materialize" width="40" height="40"/>&nbsp;
 </div>
 
 ---
