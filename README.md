@@ -20,13 +20,23 @@ I am a beginner front-end developer<img src="https://media.giphy.com/media/WUlpl
 ### 💻 Technologies:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="./assets/icons/Materialize.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/sass-original.svg" title="SASS/SCSS" alt="SASS/SCSS" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/bootstrap-original.svg " title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/materialize.svg" title="Materialize" alt="Materialize" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🛠 Tools:
+
+<div>
+  <img src="./assets/icons/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---
