@@ -56,4 +56,8 @@ I am a beginner front-end developer<img src="https://media.giphy.com/media/WUlpl
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Bohdan-007)
+<a href="https://www.codewars.com/users/Bohdan-007" target="_blank">
+      <img src="https://www.codewars.com/users/Bohdan-007/badges/large" width="40" height="40" alt="Codewars" />
+</a>
+
+<!-- ![codewars](https://www.codewars.com/users/Bohdan-007) -->
