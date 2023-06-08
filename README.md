@@ -12,7 +12,7 @@ I am a beginner front-end developer<img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: I am taking a course in front-end programming!
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-B ohdan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/b_o_s_ik)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Bohdan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/b_o_s_ik)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:elsetech133718@gmail.com)
 
 ---
