@@ -12,8 +12,21 @@ I am a beginner front-end developer<img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: I am taking a course in front-end programming!
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-bohdan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/b_o_s_ik)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-B ohdan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/b_o_s_ik)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:elsetech133718@gmail.com)
+
+---
+
+### 🤝 Socials:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/bohdan-boliubash-1b5b29279" target="_blank">
+      <img src="./assets/icons/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/b_o_s_ik" target="_blank">
+      <img src="./assets/icons/telegram-original.webp" width="40" height="40" alt="Telegram" />
+    </a>
+  </div>
 
 ---
 
@@ -40,3 +53,7 @@ I am a beginner front-end developer<img src="https://media.giphy.com/media/WUlpl
 </div>
 
 ---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Bohdan-007)
