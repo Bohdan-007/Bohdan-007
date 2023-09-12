@@ -34,12 +34,16 @@ I am a front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <div>
   <img src="./assets/icons/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="./assets/icons/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="./assets/icons/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="./assets/icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="./assets/icons/sass-original.svg" title="SASS/SCSS" alt="SASS/SCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="./assets/icons/bootstrap-original.svg " title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="./assets/icons/materialize-original.svg" title="Materialize" alt="Materialize" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/sass-original.svg" title="SASS/SCSS" alt="SASS/SCSS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
