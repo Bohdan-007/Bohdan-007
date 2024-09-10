@@ -4,7 +4,9 @@
 
 ### :man_technologist: About me:
 
-I am a front-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My path in IT began with a web development marathon. After the marathon I tried myself in many directions, tried to learn C#/.NET, Python, but I was more interested in web development! Since December 2022, I have been studying front-end courses at IT Step Academy. At the moment I am studying at courses and looking for a job at the same time!
+I am a specialized backend developer with more than a year of hands-on experience in building scalable and efficient web applications. My expertise lies in working with technologies such as Node.js, Express, and Nest.js, as well as databases such as MySQL, Postgres, and MongoDB. I have been involved in projects spanning a variety of domains including CRM systems and YouTube channel management platforms and have successfully implemented key features such as user authentication (Google OAuth, JWT), role-based access control, and integration with cloud services such as AWS and Stripe.
+
+I also have a fundamental understanding of front-end technologies such as React and Angular. This knowledge allows me to effectively collaborate with front-end developers, ensuring seamless integration between the backend and the user interface. I'm familiar with component architecture and state management in React, as well as the modular approach to development in Angular.
 
 <a href="https://bohdan-007.github.io/portfolio/" target="_blank">My portfolio</a>
 
